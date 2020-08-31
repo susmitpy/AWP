@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HandsOn", "HandsOn\HandsOn.csproj", "{CFC578C3-F62B-4F6A-B1CA-938A4F02758A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CFC578C3-F62B-4F6A-B1CA-938A4F02758A}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{CFC578C3-F62B-4F6A-B1CA-938A4F02758A}.Debug|anycpu.Build.0 = Debug|anycpu
+		{CFC578C3-F62B-4F6A-B1CA-938A4F02758A}.Release|anycpu.ActiveCfg = Release|anycpu
+		{CFC578C3-F62B-4F6A-B1CA-938A4F02758A}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal
