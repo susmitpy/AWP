@@ -8,15 +8,59 @@ namespace HandsOn
         public static void Main(string[] args)
         {
             Console.WriteLine("Starting Practicals");
-            pracOne();
+           // pracOne();
+            pracOneD();
         }
 
         static void pracOne()
         {
-            PracOne pracOne = new PracOne();
-            pracOne.one();
-            pracOne.two();
-            pracOne.three();
+            PracOne prac_one = new PracOne();
+            prac_one.one();
+            prac_one.two();
+            prac_one.three();
+        }
+
+        static void pracOneD()
+        {
+            PracOneD prac_one_d = new PracOneD();
+        }
+    }
+
+    class PracOneD
+    {
+        public void fib()
+        {
+
+        }
+
+        public void prime()
+        {
+
+        }
+
+        public void vowel()
+        {
+
+        }
+
+        public void looping()
+        {
+
+        }
+
+        public void rev_sod()
+        {
+
+        }
+
+        void rev_num()
+        {
+
+        }
+
+        void sod()
+        {
+
         }
     }
 
